@@ -1,0 +1,7 @@
+.list {
+    border: 2px solid black;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
